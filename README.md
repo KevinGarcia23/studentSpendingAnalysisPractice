@@ -39,6 +39,7 @@ To uncover trends in student spending behavior:
 
 ## Key Insights
 
-- **Sophomores** tend to overspend more relative to their available funds.
-- **Freshmen** spend more on personal care early on, while **Seniors** show a spike again (possibly due to job interviews).
-- Majors that are resource-heavy (like tech or design) have higher costs for **books** and **technology**.
+- Spending-to-income ratios are **most variable for Juniors and Seniors**, who show more high-end outliers
+- **Sophomores** tend to have a tighter and more consistent financial profile with fewer outliers
+- **Freshmen and Seniors** spend more on personal care, possibly related to onboarding and career preparation
+- Tech-related majors tend to invest more in **technology** and **books**
