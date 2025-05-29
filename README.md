@@ -28,9 +28,7 @@ To uncover trends in student spending behavior:
 - Total monthly spending calculation
 - Spending-to-income ratio computed as:
 
-  \[
-  \text{spendingRatio} = \frac{\text{Total Monthly Spending}}{\text{Monthly Income} + \text{Financial Aid}}
-  \]
+  spendingRatio = Total Monthly Spending / (Monthly Income + Financial Aid)
 
 - Visualizations:
   - Boxplots of spending categories
