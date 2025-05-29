@@ -4,7 +4,7 @@ This project analyzes how college students allocate their monthly budgets across
 
 ---
 
-## 🔍Objective
+## Objective
 
 To uncover trends in student spending behavior:
 - How do spending habits change by year in school (Freshman to Senior)?
@@ -13,7 +13,7 @@ To uncover trends in student spending behavior:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python
 - pandas
@@ -22,7 +22,7 @@ To uncover trends in student spending behavior:
 
 ---
 
-## 📁 What's Included
+## What's Included
 
 - Data cleaning (drop redundant columns, handle outliers)
 - Total monthly spending calculation
